@@ -1,2 +1,2 @@
-# shape_shooter
-shape shooter game with pygame
+# shape_shooter game
+A Simple shape shooter game with pygame and python
